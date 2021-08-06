@@ -1,7 +1,7 @@
 package backup
 
 type HDFS struct {
-
+	Address string
 }
 
 type StorageBackend_HDFS struct {
