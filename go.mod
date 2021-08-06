@@ -9,5 +9,4 @@ require (
 	google.golang.org/grpc v1.24.0
 )
 
-replace github.com/pingcap/kvproto => github.com/hu177/kvproto latest
 go 1.13
